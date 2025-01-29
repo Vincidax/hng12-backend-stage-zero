@@ -18,7 +18,7 @@ This project is a simple public API developed as part of the **HNG Stage 0 Backe
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/Vincidax/hng12-backend-stage-zero.git
 cd your-repo
 ```
 
@@ -46,7 +46,7 @@ http://localhost:3000
 
 ### Endpoint
 
-- **URL:** `GET <https://hng12-stage1.vercel.app/>` or `http://localhost:3000`
+- **URL:** `GET <https://hng12-backend-stage-zero.vercel.app/>` or `http://localhost:3000`
 - **Method:** `GET`
 - **Response Format:** `JSON`
 
@@ -65,7 +65,7 @@ http://localhost:3000
 #### Using `curl`
 
 ```bash
-curl -s https://hng12-stage1.vercel.app
+curl -s https://hng12-backend-stage-zero.vercel.app
 ```
 
 #### Using a browser 
@@ -73,7 +73,7 @@ curl -s https://hng12-stage1.vercel.app
 1. Open  your browser.
 2. Enter the API URL:
    ```
-   https://hng12-stage1.vercel.app/
+   https://hng12-backend-stage-zero.vercel.app/
    ```
 3. Send a `GET` request.
 4. View the JSON response.
