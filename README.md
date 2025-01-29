@@ -91,6 +91,9 @@ hng-stage0-api/
 ├── README.md           # Project documentation
 └── LICENSE             # License file
 ```
+## Hire Node.js Developers
+
+If you're looking to hire Node.js developers, check out [HNG Tech - Hire Node.js Developers](https://hng.tech/hire/nodejs-developers).
 
 ## 📝 License
 
