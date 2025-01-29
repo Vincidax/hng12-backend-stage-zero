@@ -13,13 +13,13 @@ This project is a simple public API developed as part of the **HNG Stage 0 Backe
 - Built with **Node.js** and **Express.js**
 - Hosted and accessible via a public URL
 
-## Setup Instructions
+## Setup(local) Instructions
 
 ### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/Vincidax/hng12-backend-stage-zero.git
-cd your-repo
+cd hng-backend-stage-zero
 ```
 
 ### 2️⃣ Install Dependencies
