@@ -36,7 +36,7 @@ node index.js
 
 ### 4️⃣ Test the API
 
-Open your browser or use **Postman** to test:
+Open your browser to test:
 
 ```
 http://localhost:3000
@@ -46,7 +46,7 @@ http://localhost:3000
 
 ### Endpoint
 
-- **URL:** `GET <your-deployed-url>` or `http://localhost:3000`
+- **URL:** `GET <https://hng12-stage1.vercel.app/>` or `http://localhost:3000`
 - **Method:** `GET`
 - **Response Format:** `JSON`
 
@@ -65,15 +65,15 @@ http://localhost:3000
 #### Using `curl`
 
 ```bash
-curl https://your-deployed-url.vercel.app
+curl -s https://hng12-stage1.vercel.app
 ```
 
-#### Using a browser or Postman
+#### Using a browser 
 
-1. Open **Postman** or your browser.
+1. Open  your browser.
 2. Enter the API URL:
    ```
-   https://your-deployed-url.vercel.app
+   https://hng12-stage1.vercel.app/
    ```
 3. Send a `GET` request.
 4. View the JSON response.
@@ -89,7 +89,7 @@ hng-stage0-api/
 ├── package.json        # Project metadata
 ├── package-lock.json   # Dependency lock file
 ├── README.md           # Project documentation
-└── LICENSE             # License file (optional)
+└── LICENSE             # License file
 ```
 
 ## 📝 License
