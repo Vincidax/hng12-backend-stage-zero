@@ -10,9 +10,9 @@ app.use(cors());
 // Endpoint to return the required information
 app.get("/", (req, res) => {
   const response = {
-    email: "vincentdx18@gmail.com", // Replace with your registered email
+    email: "vincentdx18@gmail.com", // Registered email
     current_datetime: new Date().toISOString(), // Dynamically generated ISO 8601 timestamp
-    github_url: "https://github.com/Vincidax/hng12-stage1.git",
+    github_url: "https://github.com/Vincidax/hng12-backend-stage-zero.git",  //Link to github repository
   };
 
   res.status(200).json(response);
