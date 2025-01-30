@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
   const response = {
     email: "vincentdx18@gmail.com", // Registered email
     current_datetime: new Date().toISOString(), // Dynamically generated ISO 8601 timestamp
-    github_url: "https://github.com/Vincidax/hng12-backend-stage-zero.git",  //Link to github repository
+    github_url: "https://github.com/Vincidax/hng12-backend-stage-zero",  //Link to github repository
   };
 
   res.status(200).json(response);
